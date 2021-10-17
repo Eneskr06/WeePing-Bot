@@ -1,0 +1,2 @@
+# WeePing-Bot
+Discord Bot
